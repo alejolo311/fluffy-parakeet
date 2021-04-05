@@ -43,6 +43,8 @@ INSTALLED_APPS = [
     'corsheaders',
     'rest_framework',
     'django_rest_passwordreset',
+    'orders',
+    'users',
 ]
 
 MIDDLEWARE = [
