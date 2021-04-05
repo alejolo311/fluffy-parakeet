@@ -1,0 +1,12 @@
+Django
+djangorestframework
+pillow
+django-cors-headers
+djangorestframework_simplejwt
+gunicorn
+django-heroku
+psycopg2
+dj-database-url
+whitenoise
+drf-yasg
+django_rest_passwordreset
